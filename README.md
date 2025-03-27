@@ -39,3 +39,4 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/yourusername/credit-scoring-system.git
 cd credit-scoring-system
+# Credit_System
